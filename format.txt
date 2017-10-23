@@ -1,0 +1,1 @@
+M tau_1^1 tau_2^1 tau_3^1 tau_4^1 tau_5^1 tau_6^1 tau_1^2 tau_2^2 tau_3^2 tau_4^2 tau_5^2 tau_6^2 tau_1^0.5 tau_2^0.5 tau_3^0.5 tau_4^0.5 tau_5^0.5
